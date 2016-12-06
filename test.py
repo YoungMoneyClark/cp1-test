@@ -1,6 +1,7 @@
 # Write a program that prints your name
 #
-# Name:
-# Date:
+# Name:Kyle
+# Date:Today
 
 ''' put your code here'''
+print("Kyle Clark")
